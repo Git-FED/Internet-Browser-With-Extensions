@@ -1,9 +1,5 @@
 <img width="2560" height="1440" alt="surf-fed-launch-05" src="https://github.com/user-attachments/assets/b125ec41-c08f-4aa5-98f1-c3b40d1b3422" />
-
-<a href='https://ko-fi.com/YOUR_USERNAME' target='_blank'>
-    <img height='36' style='border:0px;height:36px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
-
+[README.md](https://github.com/user-attachments/files/31333509/README.md)
 # Electron Browser (starter)
 
 A minimal tabbed web browser built with Electron. All icons are placeholders
